@@ -1,0 +1,19 @@
+{
+  "products": [
+  {
+    "sku": "item0001",
+    "name": "New Balance 1906R",
+    "price": 139.5
+  },
+  {
+    "sku": "item0002",
+    "name": "New Balance 2002R",
+    "price": 150.99
+  },
+  {
+    "sku": "item0003",
+    "name": "New Balance 9006",
+    "price": 119.75
+  }
+]
+}
